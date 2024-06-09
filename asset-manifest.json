@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8f4db2a8.css",
+    "main.js": "/portfolio/static/js/main.2479de3c.js",
+    "static/media/me3.jpeg": "/portfolio/static/media/me3.9d59f757dc16ad239a7a.jpeg",
+    "static/media/drumkit.jpeg": "/portfolio/static/media/drumkit.5709fc5f55fa296b8a1c.jpeg",
+    "static/media/purrfect.jpeg": "/portfolio/static/media/purrfect.8bb3b9b660f5070b69c2.jpeg",
+    "static/media/dash.jpeg": "/portfolio/static/media/dash.c3fd94c1ad8d6da73800.jpeg",
+    "static/media/topicmodelling.jpeg": "/portfolio/static/media/topicmodelling.c8da0ff4229148d9cd5a.jpeg",
+    "static/media/simongame.jpeg": "/portfolio/static/media/simongame.0aa3c37f495100a57719.jpeg",
+    "static/media/todo.jpeg": "/portfolio/static/media/todo.5b522e0de54df601cd55.jpeg",
+    "static/media/signingup.jpeg": "/portfolio/static/media/signingup.8d8f4557efb79e14784f.jpeg",
+    "static/media/dicedual.jpeg": "/portfolio/static/media/dicedual.2cc6abb86894baafb901.jpeg",
+    "static/media/subtitle.jpeg": "/portfolio/static/media/subtitle.1a94992afe687813c867.jpeg",
+    "static/media/wheather.jpeg": "/portfolio/static/media/wheather.9ddf39ca4d5096ddfe43.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.8f4db2a8.css.map": "/portfolio/static/css/main.8f4db2a8.css.map",
+    "main.2479de3c.js.map": "/portfolio/static/js/main.2479de3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f4db2a8.css",
+    "static/js/main.2479de3c.js"
+  ]
+}
